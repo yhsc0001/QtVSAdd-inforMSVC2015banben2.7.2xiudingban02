@@ -1,0 +1,1 @@
+# QtVSAdd-inforMSVC2015banben2.7.2xiudingban02
